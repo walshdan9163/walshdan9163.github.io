@@ -1,5 +1,13 @@
 .profilePic {
-    width: 25%;
-    height: 20%;
+    width:25%;
+    height: 25%;
     transform: rotate(90deg);
+}
+
+.profileSection {
+    text-align: center;
+}
+
+.profileName {
+    padding:5%;
 }
