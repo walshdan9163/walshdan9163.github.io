@@ -1,0 +1,5 @@
+.profilePic {
+    width: 25%;
+    height: 20%;
+    transform: rotate(90deg);
+}
